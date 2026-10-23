@@ -1,0 +1,1 @@
+sudo apt update downloads the newest package lists and version information from the online repositories without installing or updating any software. On the other hand, sudo apt upgrade actually downloads and installs the newer versions of the packages already installed on the server. Therefore, you should always run apt update first to refresh the list before running apt upgrade
