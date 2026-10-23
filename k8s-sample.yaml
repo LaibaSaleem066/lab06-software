@@ -9,6 +9,4 @@ spec:
     ports:
 
     - containerPort: 80
-    O
     # edited by Laiba Saleem
-    #
